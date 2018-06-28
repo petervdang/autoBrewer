@@ -6,5 +6,9 @@
 0.1
  & 06.25.2018
  & \listset {MD}
- & document creation\\\hline 
+ & Document Creation\\\hline 
+0.2
+ & 06.27.2018
+ & \listset {PD}
+ & Document Updated\\\hline 
 \end {longtable}
